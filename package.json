@@ -1,0 +1,20 @@
+{
+	"name": "js-email-validator",
+	"version": "1.0.1",
+	"description": "Lightweight email validator",
+	"license": "MIT",
+	"repository": "gilbertVirgo/js-email-validator",
+	"main": "index.js",
+	"keywords": [
+		"email",
+		"validation",
+		"validator",
+		"validate"
+	],
+	"scripts": {
+		"test": "node test.js"
+	},
+	"devDependencies": {
+		"mocha": "^8.2.1"
+	}
+}
